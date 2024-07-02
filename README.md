@@ -26,7 +26,7 @@
 <img src="Img/13.jpg" width="600" height="250" alt="">
 <img src="Img/14.jpg" width="600" height="250" alt="">
 <img src="Img/15.jpg" width="600" height="250" alt="">
-<p>All are also commented by polish</p>
+<p align="center">All are also commented by polish</p>
 
 <p align="center">Thank you very much for reading and have a nice day!</p>
 
