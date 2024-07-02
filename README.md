@@ -1,4 +1,8 @@
+
+<p>Functions used:</p>
 <img src="Img/1Menu.png" width="600" height="250" alt="">
+<p text align="center">This list contains all the shapes that we can draw on our board
+Example:</p>
 <img src="Img/2Func.jpg" width="600" height="250" alt="">
 <img src="Img/3.jpg" width="600" height="250" alt="">
 <img src="Img/4.jpg" width="600" height="250" alt="">
