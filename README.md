@@ -1,8 +1,8 @@
 
 <p>1) Functions used:</p>
 <img src="Img/1Menu.png" width="600" height="250" alt="">
-<p text align="center">This list contains all the shapes that we can draw on our board</p>
-<p text align="center">Example:</p>
+<p>This list contains all the shapes that we can draw on our board</p>
+<p>Example:</p>
 <img src="Img/2Func.jpg" width="600" height="250" alt="">
 <p>Here it was and I use 2 functions: straight line, and rectangle.</p>
 <p>And below I will show the code for this</p>
