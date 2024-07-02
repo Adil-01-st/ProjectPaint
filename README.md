@@ -28,5 +28,5 @@
 <img src="Img/15.jpg" width="600" height="250" alt="">
 <p>All are also commented by polish</p>
 
-<p text-align="center">Thank you very much for reading and have a nice day!</p>
+<p align="center">Thank you very much for reading and have a nice day!</p>
 
